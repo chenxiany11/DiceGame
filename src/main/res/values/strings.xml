@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExameOnechenx11</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="roll">ROLL</string>
+    <plurals name="the_instruction">
+        <item quantity="zero">You have %d roll left</item>
+        <item quantity="one">You have %d roll left</item>
+        <item quantity="other">You have %d rolls left</item>
+    </plurals>
+    <string name="open_title">You have 3 rolls left</string>
+    <string name="open_instruction">Press any die to freeze or unfreeze it</string>
+    <string name="reset">Press the FAB to reset the roll</string>
+    <string name="instructions_record">Press the FAB to record your score</string>
+    <string name="edit_dialog_title">Confirm Reset</string>
+    <string name="dialog">Are you sure you want to reset the game?</string>
+
+
+</resources>
